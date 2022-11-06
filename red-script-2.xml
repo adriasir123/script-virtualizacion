@@ -1,6 +1,6 @@
 <network>
-  <name>red-nat2</name>
-  <bridge name='virbr-nat2'/>
+  <name>red-script-2</name>
+  <bridge name='virbr-script-2'/>
   <forward/>
   <ip address='192.168.124.1' netmask='255.255.255.0'>
     <dhcp>
